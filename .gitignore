@@ -1,7 +1,1 @@
-venv/
-__pycache__/
-*.pyc
-.astro/
-*.egg-info/
-dist/
-build/
+Nothing should be ignored based on the provided file changes. The only modified file is `maqola/topics_1.md`, which is a markdown source file and should not be added to .gitignore.
